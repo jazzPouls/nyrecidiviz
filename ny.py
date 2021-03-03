@@ -123,6 +123,8 @@ for crime in d.crime.unique():
 
 transitions = pd.concat(transition_df_by_crime)
 transitions.to_csv('/Users/jpouls/recidiviz/nyrecidiviz/mm_preprocessing/transitions2018charm.csv')
+
+print('DONEDONEDONEDONEDONEDONEDONEOND')
     
     
 #         numLOS['cum'] = cum.crime
