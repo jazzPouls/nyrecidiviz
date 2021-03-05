@@ -1,6 +1,6 @@
 # nyrecidiviz
 
-Processes NY inmate data for [Recidiviz] (https://www.recidiviz.org/policy)
+Processes NY inmate data for [Recidiviz](https://www.recidiviz.org/policy)
 
 ### Motivation
 Researching the effects of eliminating mandatory minimums in NY
