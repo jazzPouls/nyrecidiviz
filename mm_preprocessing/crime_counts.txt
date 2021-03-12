@@ -1,0 +1,500 @@
+CRIM SALE CONTR SUBSTANCE 3RD|B                 15224
+CRIM POSS CONTR SUBSTANCE 3RD|B                 12442
+CRIM SALE CONTR SUBSTANCE 5TH|D                  8055
+BURGLARY 3RD|D                                   7870
+ATT CRIM SALE CONTR SUBSTANCE 3RD|C              6624
+CRIM POSS CONTR SUBSTANCE 5TH|D                  6345
+ASSAULT 2ND|D                                    5791
+ROBBERY 1ST|B                                    5512
+CRIM POSS WEAP 2ND|C                             5161
+GRAND LARCENY - NOT AUTO 4TH|E                   4488
+ATT CRIM POSS WEAP 2ND|D                         4472
+DWI:ALCOHOL/DRUGS-2ND OFFENSE|E                  4130
+ROBBERY 3RD|D                                    4055
+ATT CRIM POSS CONTR SUBSTANCE 3RD|C              3882
+ATT ROBBERY 2ND|D                                3731
+CRIM POSS CONTR SUBSTANCE 2ND|A2                 3322
+MURDER 2ND|A1                                    3250
+MANSLAUGHTER 1ST|B                               3209
+DWI:ALCOHOL/DRUGS-3RD OFFENSE|D                  3014
+CRIM POSS CONTR SUBSTANCE 4TH|C                  2958
+ATT ASSAULT 2ND|E                                2920
+ATT BURGLARY 2ND|D                               2653
+ATT BURGLARY 3RD|E                               2633
+ASSAULT 1ST|B                                    2575
+BURGLARY 2ND|C                                   2453
+CRIM SALE CONTR SUBSTANCE 2ND|A2                 2416
+ROBBERY 2ND|C                                    2360
+ATT ROBBERY 1ST|C                                2339
+CRIM CONTEMPT 1ST|E                              2313
+BURGLARY 2ND SUB 2|C                             2253
+ATT MURDER 2ND|B                                 2228
+GRAND LARCENY - NOT AUTO 3RD|D                   2180
+CRIM POSS WEAP 3RD SUB 1 2 3|D                   2164
+CRIM SALE CONTR SUBSTANCE 4TH|C                  2091
+CRIM POSS STOLEN PROP 4TH|E                      1957
+ATT CRIM POSS CONTR SUBSTANCE 5TH|E              1878
+ATT ASSAULT 1ST|C                                1851
+SEXUAL ABUSE 1ST|D                               1789
+CRIM POSS FORGED INST 2ND|D                      1664
+ATT ROBBERY 3RD|E                                1616
+CRIM POSS WEAP 3RD SUB 4-8 VFO|D                 1582
+BURGLARY 1ST|B                                   1524
+RAPE 1ST|B                                       1504
+GRAND LARCENY - NOT AUTO 2ND|C                   1418
+ATT CRIM SALE CONTR SUBSTANCE 5TH|E              1389
+ATT BURGLARY 2ND SUB 2|D                         1302
+ATT CRIM POSS WEAP 3RD SUB 1 2 3|E               1120
+FORGERY 2ND|D                                     958
+RAPE 3RD|E                                        938
+RAPE 2ND|D                                        937
+ATT CRIM POSS CONTR SUBSTANCE 4TH|D               930
+CONSPIRACY 2ND|B                                  896
+CRIM SALE CONTR SUBS - SCHOOL|B                   892
+ATT CRIM POSS FORGED INST 2ND|E                   886
+MANSLAUGHTER 2ND|C                                882
+ROBBERY 2ND SUB 2 3|C                             840
+RECKLESS ENDANGERMENT 1ST|D                       811
+COURSE SEX CONDUCT-CHILD 1ST|B                    798
+CRIM SEXUAL ACT 1ST|B                             770
+ATT CRIM POSS WEAP 3RD SUB 4-8 VFO|E              762
+CRIM POSS STOLEN PROP 3RD|D                       744
+ROBBERY 2ND SUB 1|C                               705
+AGG UNLIC OPER MV 1ST|E                           674
+ATT ROBBERY 2ND SUB 2 3|D                         668
+ATT ROBBERY 2ND SUB 1|D                           594
+CRIM MISCHIEF 3RD|E                               539
+ATT RAPE 1ST|C                                    523
+GRAND LARCENY - AUTO 4TH|E                        486
+ATT SEXUAL ABUSE 1ST|E                            458
+ARSON 3RD|C                                       427
+ENTERPRISE CORRUPTION|B                           412
+IDENTITY THEFT 1ST|D                              408
+CONSPIRACY 4TH|E                                  408
+AGGRAVATED CRIM CONTEMPT|D                        404
+MURDER 1ST|A1                                     386
+GRAND LARCENY - AUTO 3RD|D                        380
+CRIM POSS CONTR SUBSTANCE 1ST|A1                  378
+AGG DWI:1 PRIOR CONV-10 YRS|E                     360
+SODOMY 1ST|B                                      348
+ATT GRAND LARCENY - NOT AUTO 3RD|E                346
+CRIM POSS FIREARM|E                               343
+ATT BURGLARY 1ST|C                                334
+ATT FORGERY 2ND|E                                 329
+ATT PROM PRISON CONTRABAND 1ST|E                  329
+UNLAW MANUFACTURE METH 3RD|D                      324
+SEX OFF REG VIOL-1ST OFFENSE|E                    312
+COURSE SEX CONDUCT-CHILD 2ND|D                    310
+CRIM POSS MARIHUANA 2ND|D                         292
+KIDNAPPING 2ND|B                                  284
+SEX OFF REG VIOL-2ND OFFENSE|D                    281
+GRAND LARCENY - NOT AUTO 1ST|B                    272
+POSS A SEX PERF BY A CHILD|E                      269
+VEHICULAR MANSLAUGHTER 2ND|D                      268
+CRIM SEXUAL ACT 2ND|D                             265
+AUTO STRIPPING 2ND|E                              260
+GANG ASSAULT 1ST|B                                248
+ARSON 2ND|B                                       231
+CRIM NEGLIGENT HOMICIDE|E                         230
+AGGRAVATED FAMILY OFFENSE|E                       226
+CRIM SALE CONTR SUBSTANCE 1ST|A1                  224
+PROM PRISON CONTRABAND 1ST|D                      223
+CRIM POSS MARIHUANA 3RD|E                         222
+CRIM MISCHIEF 2ND|D                               215
+PROM SEXUAL PERF BY A CHILD|D                     214
+IDENTITY THEFT 2ND|E                              212
+PRED SEX ASSAULT AGAINST CHILD|A2                 211
+ATT ARSON 2ND|C                                   208
+BAIL JUMPING 2ND|E                                204
+CRIM POSS MARIHUANA 1ST|C                         196
+AGG DWI:2 PRIOR CONV-10 YRS|D                     193
+SCHEME TO DEFRAUD 1ST|E                           190
+ATT CRIM SEXUAL ACT 1ST|C                         187
+DRIV IMP/DRUGS-2ND OFFENSE|E                      183
+VEHICULAR ASSAULT 2ND|E                           174
+ATT RAPE 2ND|E                                    166
+ATT ARSON 3RD|D                                   164
+CRIM SEXUAL ACT 3RD|E                             163
+ATT CONSPIRACY 2ND|C                              159
+AGG DWI:W/CHILD|E                                 159
+STRANGULATION 2ND|D                               158
+ATT RECKLESS ENDANGERMENT 1ST|E                   157
+BURGLARY 2ND SUB 1|C                              154
+CRIM POSS FORGED INST 1ST|C                       153
+AGGRAVATED VEHICULAR HOMICIDE|B                   152
+ATT CRIM SALE CONTR SUBSTANCE 4TH|D               151
+SODOMY 2ND|D                                      151
+GANG ASSAULT 2ND|C                                149
+CRIM SALE FIREARM 3RD|D                           142
+VEHICULAR ASSAULT 1ST|D                           131
+ATT CRIM POSS STOLEN PROP 3RD|E                   130
+UNAUTH USE OF MV 2ND|E                            123
+ATT GANG ASSAULT 1ST|C                            122
+FALSIFY BUSINESS RECORDS 1ST|E                    122
+VEHICULAR MANSLAUGHTER 1ST|C                      118
+CRIM SALE FIREARM 1ST|B                           116
+ARSON 4TH|E                                       115
+SODOMY 3RD|E                                      112
+OFFER FALSE INST FILING 1ST|E                     111
+ATT KIDNAPPING 2ND|C                              108
+ATT COURSE SEX CONDUCT-CHILD 1ST|C                107
+TAMPER WITH PHYS EVIDENCE|E                       107
+CRIM SALE MARIHUANA 3RD|E                         104
+AGGRAVATED VEHICULAR ASSAULT|C                    103
+LV SCENE OF ACC W/O REPORTING|E                   103
+ATT CRIM POSS CONTR SUBSTANCE 2ND|A2              101
+ATT GRAND LARCENY - AUTO 3RD|E                     99
+ATT STRANGULATION 2ND|E                            99
+LV SCENE OF ACCIDENT - DEATH|D                     97
+ATT BURGLARY 2ND SUB 1|D                           95
+ATT SODOMY 1ST|C                                   95
+ATT GANG ASSAULT 2ND|D                             95
+ATT MURDER 1ST|A1                                  90
+USE OF CHILD IN A SEXUAL PERF|C                    88
+ATT CRIM POSS FORGED INST 1ST|D                    86
+DRIV IMP/DRUGS - 3RD OFFENSE|D                     85
+PREDATORY SEXUAL ASSAULT|A2                        84
+ATT GRAND LARCENY - NOT AUTO 2ND|D                 83
+PROM PROSTITUTION 3RD|D                            82
+SEX TRAFFICKING|B                                  80
+ATT ENTERPRISE CORRUPTION|C                        80
+ATT CRIM POSS MARIHUANA 2ND|E                      74
+UNLAW IMPRISONMENT 1ST|E                           71
+ATT DISSEM INDECENT MAT MINOR 1ST|E                69
+ATT CRIM SALE CONTR SUBS - SCHOOL|C                65
+ATT CRIM SEXUAL ACT 2ND|E                          63
+PROM PROSTITUTION 2ND|C                            62
+ATT IDENTITY THEFT 1ST|E                           62
+MENACING POLICE/PEACE OFFICER|D                    61
+CONSPIRACY 3RD|D                                   59
+CRIM SALE FIREARM 2ND|C                            59
+ATT AGGRAVATED ASSAULT/PEACE OFF.|C                58
+CRIM POSS STOLEN PROP 2ND|C                        57
+CRIM SALE MARIHUANA 2ND|D                          56
+OPERATE MAJOR DRUG TRAFFICKER|A1                   55
+KIDNAPPING 1ST|A1                                  55
+POSS OBSCENE SEX PERF BY CHILD|E                   54
+RECKLESS ASSAULT OF A CHILD|D                      52
+UNLAW SURVEILLANCE 2ND(2 3 4)|E                    51
+INSURANCE FRAUD 3RD|D                              50
+WELFARE FRAUD 3RD|D                                50
+ATT AGGRAVATED CRIM CONTEMPT|E                     49
+DISSEM INDECENT MAT MINOR 1ST|D                    49
+COERCION 1ST|D                                     47
+ATT MANSLAUGHTER 1ST|C                             46
+INTIMIDATE VICTIM/WITNESS 3RD|E                    46
+ATT UNLAW MANUFACTURE METH 3RD|E                   42
+PERSISTENT SEXUAL ABUSE|E                          41
+CRIM NUISANCE 1ST|E                                41
+CRIM SALE OF FIREARM 3 PRE-06|D                    39
+PERJURY 1ST|D                                      39
+HINDERING PROSECUTION 1ST|D                        38
+BAIL JUMPING 1ST|D                                 37
+AGG HAR:EMPLOYEE BY INMATE|E                       37
+WELFARE FRAUD 4TH|E                                37
+MONEY LAUNDERING 2ND|C                             36
+CRIM POSS FORGERY DEVICES|D                        36
+ATT CRIM POSS MARIHUANA 1ST|D                      34
+ATT COURSE SEX CONDUCT-CHILD 2ND|E                 33
+UNLAW MANUFACTURE METH 2ND|C                       33
+ATT PROM PROSTITUTION 3RD|E                        33
+GRAND LARCENY - AUTO 2ND|C                         33
+ATT CRIM MISCHIEF 2ND|E                            33
+CRIM IMPERSONATION 1ST|E                           33
+ESCAPE 2ND|E                                       32
+CRIM SALE MARIHUANA 1ST|C                          31
+INSURANCE FRAUD 4TH|E                              31
+ATT CRIM SALE FIREARM 3RD|E                        30
+CRIM FACILITATION 2ND|C                            30
+AGGRAVATED SEXUAL ABUSE 2ND|C                      30
+ATT SEX OFF REG VIOL-2ND OFFENSE|E                 28
+PROM OBSCENE SEX PERF BY CHILD|D                   28
+ASSAULT 1ST|C                                      27
+MONEY LAUNDERING 1ST|B                             27
+ATT COERCION 1ST|E                                 27
+ATT OPERATE MAJOR DRUG TRAFFICKER|B                27
+UNLAW SURVEILLANCE 2ND SUB 1|E                     26
+CRIM USE OF FIREARMS 1ST|B                         26
+CRIM POSS WEAP 1ST|B                               26
+ATT CRIM POSS CONTR SUBSTANCE 1ST|A1               25
+ATT CRIM SALE CONTR SUBSTANCE 2ND|A2               25
+ARSON 1ST|A1                                       24
+ATT SODOMY 2ND|E                                   23
+ATT MENACING POLICE/PEACE OFFICER|E                23
+MAKE TERRORISTIC THREAT|D                          23
+ASLT:POLICE OFF/FIREMAN/EMT|C                      22
+ATT USE OF CHILD IN A SEXUAL PERF|D                22
+DISSEM INDECENT MAT MINOR 2ND|E                    21
+INCEST|E                                           21
+CRIM POSS PRECURSORS OF METH|E                     21
+AGGRAVATED SEXUAL ABUSE 3RD|D                      19
+ATT GRAND LARCENY - NOT AUTO 1ST|C                 19
+ATT CRIM SALE MARIHUANA 2ND|E                      19
+ATT PROM PROSTITUTION 2ND|D                        19
+BRIBERY 3RD|D                                      19
+ATT MAKE TERRORISTIC THREAT|E                      18
+STALKING 2ND|E                                     18
+ATT ARSON 1ST|B                                    18
+BRIBE REC 3RD|D                                    17
+CRIM SOLICITATION 2ND|D                            17
+ATT BRIBERY 3RD|E                                  16
+HINDERING PROSECUTION 2ND|E                        15
+ATT PROM SEXUAL PERF BY A CHILD|E                  15
+CRIM TAMPERING 1ST|D                               15
+AGGRAVATED SEXUAL ABUSE 1ST|B                      14
+INCEST 3RD|E                                       14
+CUSTODIAL INTERFERENCE 1ST|E                       13
+ASSAULT 2ND (HATE CRIME)|C                         13
+FALSELY REPORTING INCIDENT 2ND|E                   13
+ATT AGGRAVATED MURDER|A1                           13
+PROM GAMB BOOKMAKING 1ST|E                         12
+INSURANCE FRAUD 2ND|C                              12
+MENACING 1ST|E                                     12
+ATT CRIM FACILITATION 2ND|D                        12
+FALSELY REPORTING INCIDENT 1ST|D                   12
+FORGERY 1ST|C                                      12
+ASSAULT 3RD (HATE CRIME)|E                         12
+ATT ASLT:POLICE OFF/FIREMAN/EMT|D                  11
+ATT GRAND LARCENY - AUTO 2ND|D                     11
+ATT INSURANCE FRAUD 3RD|E                          11
+TAMPER WITH A WITNESS 3RD|E                        11
+STALKING 1ST SUB 1|D                               10
+ATT AGGRAVATED SEXUAL ABUSE 2ND|D                  10
+ATT PERJURY 1ST|E                                  10
+CONSPIRACY 1ST|A1                                  10
+AGGRAVATED IDENTITY THEFT|D                        10
+SEX TRAFFICKING SUB 5A  5B|B                       10
+ATT SEX TRAFFICKING|C                              10
+ATT KIDNAPPING 1ST|B                               10
+CRIM POSS STOLEN PROP 1ST|B                        10
+MONEY LAUNDERING 3RD|D                              9
+BRIBING A WITNESS|D                                 9
+AGGRAVATED ASSAULT/PEACE OFF.|B                     9
+ATT CRIM SALE OF FIREARM 3 PRE-06|E                 9
+ATT MANSLAUGHTER 2ND|D                              9
+CRIM TRESPASS 1ST|D                                 9
+ANIMAL FIGHTING|E                                   9
+ATT CRIM POSS FORGERY DEVICES|E                     8
+ATT CRIM SALE FIREARM 2ND|D                         8
+CRIM USURY 1ST|C                                    8
+ATT CRIM TAMPERING 1ST|E                            8
+ENDANGER INCOMPETENT 1ST|E                          8
+ATT ASSAULT 2ND (HATE CRIME)|D                      8
+BRIBERY 2ND|C                                       8
+STRANGULATION 1ST|C                                 8
+INTIMIDATE VICTIM/WITNESS 2ND|D                     7
+ATT CRIM POSS WEAP 1ST|C                            7
+ROBBERY 1ST (HATE CRIME)|B                          7
+TRADEMARK COUNTERFEITING 1ST|C                      7
+FRAUD IN SALE OF SECURITIES|E                       7
+COMPUTER TRESPASS|E                                 7
+BRIBE REC 2ND|C                                     7
+AGGRAVATED MURDER|A1                                7
+ATT CRIM POSS STOLEN PROP 2ND|D                     7
+CRIM USE OF FIREARMS 2ND|C                          7
+ATT FORGERY 1ST|D                                   7
+ESCAPE 1ST|D                                        7
+ATT BAIL JUMPING 1ST|E                              7
+BURGLARY 2ND SUB 2 (HATE CRIME)|B                   7
+MONEY LAUNDERING 4TH|E                              6
+RIOT 1ST|E                                          6
+TRADEMARK COUNTERFEITING 2ND|E                      6
+AUTO STRIPPING 1ST|D                                6
+ATT CRIM SALE FIREARM 1ST|C                         6
+ATT WELFARE FRAUD 3RD|E                             5
+ATT CRIM SALE MARIHUANA 1ST|D                       5
+TAMPER WITH PUBLIC REC 1ST|D                        5
+ATT CRIM SALE CONTR SUBSTANCE 1ST|A1                5
+CRIMINAL TAX FRAUD 3RD|D                            5
+ATT HINDERING PROSECUTION 1ST|E                     5
+CIG TAX-POSS/TRANS>20K ILL CIG|E                    5
+CRIM SALE PRESCRIPTION|C                            5
+CRIM DIVERSION PRESCRIP 1ST|C                       5
+FAIL DISCLOSE ORIGIN REC 1ST|E                      5
+PROM GAMB LOTT/POLICY 1ST|E                         5
+HEALTH CARE FRAUD 1ST|B                             5
+ATT RECKLESS ASSAULT OF A CHILD|E                   5
+ATT MURDER 2ND (HATE CRIME)|B                       5
+INSURANCE FRAUD 1ST|B                               5
+ATT INSURANCE FRAUD 2ND|D                           5
+RESIDENTIAL MORTGAGE FRAUD 2ND|C                    5
+PLACE FALSE BOMB 1ST|D                              5
+COMMERCIAL BRIBE REC 1ST|E                          5
+PERJURY 2ND|E                                       4
+ILLEGAL POSS VEH ID NO PLATE|E                      4
+ASSAULT 1ST (HATE CRIME)|B                          4
+GRAND LARCENY - NOT AUTO 3RD (HATE CRIME)|C         4
+CEMETERY DESECRATION 1ST|E                          4
+CRIM FACILITATION 3RD|E                             4
+TAMPER WITH A WITNESS 2ND|D                         4
+ATT CRIM POSS WEAP 1ST|B                            4
+AGGRAVATED SEXUAL ABUSE 4TH|E                       4
+MURDER 2ND (HATE CRIME)|A1                          4
+CRIM MISCHIEF 3RD (HATE CRIME)|D                    4
+PROM PROSTITUTION 1ST|B                             4
+CRIMINAL TAX FRAUD 2ND|C                            4
+UNAUTH USE OF MV 1ST|D                              4
+WELFARE FRAUD 2ND|C                                 4
+UNAUTH PRACTICE OF PROFESSION|E                     3
+AGGRAVATED HARASSMENT 1ST|E                         3
+ATT FALSELY REPORTING INCIDENT 1ST|E                3
+IMIT CONTROL SUBS-2ND VIOL|E                        3
+ENDANGER VUL/ELDER 2ND|E                            3
+ATT ASSAULT 1ST|D                                   3
+CONCEALMENT OF A HUMAN CORPSE|E                     3
+UNLAW DISPOSAL METH LAB MAT|E                       3
+CRIM PURCHASE/DISPOSAL WEAPON|D                     3
+BRIBING A LABOR OFFICIAL|D                          3
+CRIMINAL TAX FRAUD 1ST|B                            3
+LABOR TRAFFICKING|D                                 3
+ATT ESCAPE 1ST|E                                    3
+ATT AGGRAVATED SEXUAL ABUSE 3RD|E                   3
+NON-SUPPORT CHILD 1ST|E                             3
+CRIM SALE FIREARM 3RD|E                             3
+MAKE FALSE REPORT RE STOLEN MV|E                    3
+ATT CRIM USE OF FIREARMS 1ST|C                      3
+STALKING 1ST SUB 2|D                                3
+GRAND LARCENY - NOT AUTO 2ND (HATE CRIME)|B         3
+CRIM USURY 2ND|E                                    3
+MONEY LAUNDERING 2ND|E                              3
+MANSLAUGHTER 2ND (HATE CRIME)|B                     3
+ATT CRIM TRESPASS 1ST|E                             3
+PATRONIZING A PROSTITUTE 2ND|E                      3
+BODY STEALING|E                                     3
+ATT ASSAULT 1ST (HATE CRIME)|B                      3
+ATT UNLAW MANUFACTURE METH 2ND|D                    3
+CIG TAX-ATT TO EVADE OR DEFEAT|E                    3
+COMPUTER TAMPERING 1ST|C                            3
+ATT STALKING 1ST SUB 1|E                            3
+ATT SEX TRAFFICKING SUB 5A  5B|C                    2
+CRIM INJECT OF A NARC DRUG|E                        2
+CRIM SALE FIREARM 2ND|D                             2
+ATT BRIBING A WITNESS|E                             2
+RECK ASLT CHILD:DAY CARE PROV|E                     2
+ATT BRIBE REC 3RD|E                                 2
+POSS/TRANS 10K UNSTAMPED CIGS|E                     2
+ATT ROBBERY 2ND (HATE CRIME)|C                      2
+MISUSE FOOD STMP:VALUE>$50 000|C                    2
+CRIM POSS WEAPON SCHOOL GRDS|E                      2
+ATT UNAUTH USE OF MV 1ST|E                          2
+LURING CHILD TO COMMIT A CRIME|E                    2
+OBSTRUCT GOVT ADMIN:SPRAY DEV|D                     2
+CRIM SOLICITATION 3RD|E                             2
+MFG/TRANS/ETC DANGEROUS WEAPON|D                    2
+ATT CRIM SOLICITATION 2ND|E                         2
+GRAND LARCENY - AUTO 1ST|B                          2
+COMPELLING PROSTITUTION|B                           2
+ATT PREDATORY SEXUAL ASSAULT|A2                     2
+ATT PRED SEX ASSAULT AGAINST CHILD|A2               2
+ATT PROM PROSTITUTION 1ST|C                         2
+CRIM SALE CONTR SUBS TO CHILD|B                     2
+UNLAW POSS PERSONAL ID 2ND|E                        2
+ATT CRIM DIVERSION PRESCRIP 2ND|E                   2
+RECKLESS ENDANGERMENT 1ST (HATE CRIME)|C            2
+CONSPIRACY 5TH (HATE CRIME)|E                       2
+AGG DWI:W/CHILD-2ND OFFENSE|D                       2
+REC REWARD OFF MISCONDUCT 2ND|E                     2
+SEX MOTV FEL BURGLARY 2ND|C                         2
+ATT AGGRAVATED SEXUAL ABUSE 1ST|C                   2
+ATT CRIM USURY 1ST|D                                2
+INCEST 2ND|D                                        2
+BIGAMY|E                                            2
+ATT CRIM PURCHASE/DISPOSAL WEAPON|E                 2
+ATT CRIM SALE CONTR SUBS TO CHILD|C                 2
+AGG CRIM NEGLIGENT HOMICIDE|C                       2
+PLACE FALSE BOMB 2ND|E                              2
+ATT DWI:ALCOHOL/DRUGS-3RD OFFENSE|E                 2
+BURGLARY 1ST (HATE CRIME)|B                         2
+INCEST 1ST|B                                        2
+ATT CRIM USE OF FIREARMS 2ND|D                      2
+MANSLAUGHTER 1ST (HATE CRIME)|B                     2
+ATT PROM OBSCENE SEX PERF BY CHILD|E                2
+ATT LV SCENE OF ACCIDENT - DEATH|E                  2
+MISUSE FOOD STAMPS|E                                2
+ABORTION 2ND|E                                      2
+ABSCOND FROM TEMP RELEASE 1ST|E                     2
+CONTRACTS FOR MONOPOLY|E                            2
+ARSON 3RD (HATE CRIME)|B                            2
+SELL/ISSUE NY INSTRMNT W/O LIC|E                    2
+EAVESDROPPING|E                                     2
+BRIBING A JUROR|D                                   1
+ATT ROBBERY 3RD (HATE CRIME)|D                      1
+MENACING 2ND (HATE CRIME)|E                         1
+POSS EXPLOSIVES W/O LIC|D                           1
+FLEE OFFICER IN MOTOR VEH 2ND|E                     1
+PROM A SUICIDE ATTEMPT|E                            1
+CRIM SALE FIREARM/AID OF MINOR|C                    1
+ATT ROBBERY 2ND SUB 1 (HATE CRIME)|C                1
+TAMPER WITH A WITNESS 1ST|B                         1
+ATT TAMPER WITH A WITNESS 2ND|E                     1
+UNLAW MANUFACTURE METH 1ST|B                        1
+CRIM DIVERSION PRESCRIP 3RD|E                       1
+ENDANGER PUB HLTH/SFTY/ENVRT 1|C                    1
+REWARDING OFF. MISCONDUCT 2ND|E                     1
+FORGERY OF VEHICLE ID. NUMBER|E                     1
+ROBBERY 2ND SUB 1 (HATE CRIME)|B                    1
+ATT LURING CHILD TO COMMIT CLASS B|E                1
+TAMPER WITH CONSUMER PROD 1ST|E                     1
+ATT CRIM POSS BENEFIT CARD 2ND|E                    1
+ATT CRIM SALE PRESCRIPTION|D                        1
+USE OF DRUG PARAPHERNALIA 1ST|D                     1
+FALSE RETURN - CORPORATE TAXES|E                    1
+ROBBERY 2ND SUB 2 3 (HATE CRIME)|B                  1
+ATT ROBBERY 1ST|B                                   1
+HEALTH CARE FRAUD 4TH|E                             1
+ATT LURING CHILD TO COMMIT CLASS A|D                1
+FACILITATE SEX OFF/CONTROL SUB|D                    1
+POSS SKIMMER DEVICE 1ST|E                           1
+CRIM USE ACCESS DEVICE 1ST|E                        1
+BRIBE REC BY A WITNESS|D                            1
+ATT MONEY LAUNDERING 3RD|E                          1
+PATRONIZING A PROSTITUTE 1ST|D                      1
+CRIME IS NO LONGER A FELONY|U                       1
+MURDER 1ST (HATE CRIME)|A1                          1
+CRIMINAL TAX FRAUD 4TH|E                            1
+ATT CRIM POSS STOLEN PROP 1ST|C                     1
+ATT BRIBERY 1ST|C                                   1
+GRAND LARCENY - NOT AUTO 4TH (HATE CRIME)|D         1
+RESIDENTIAL MORTGAGE FRAUD 1ST|B                    1
+BURGLARY 2ND (HATE CRIME)|B                         1
+ATT ARSON 1ST (HATE CRIME)|B                        1
+UNLAW SURVEILLANCE 1ST|D                            1
+FALSE RETURNS/REPORTS NYC|E                         1
+SEX TRAFFICKING (HATE CRIME)|B                      1
+DISSEM UNLAW SURV IMAGE 1ST|E                       1
+ATT UNLAW SURVEILLANCE 1ST|E                        1
+ATT CRIM POSS CHEM/BIOL WEAPON 3RD|D                1
+REPEATED FAILURE TO FILE CORP|E                     1
+ATT CRIM DIVERSION PRESCRIP 1ST|D                   1
+CIG TAX-POSS/TRANS>30K ILL CIG|D                    1
+PLACING FALSE BOMB|D                                1
+CRIM SALE FIREARM TO A MINOR|C                      1
+FRAUDULENT PRACTICES|E                              1
+ATT RECKLESS ENDANGERMENT 1ST (HATE CRIME)|D        1
+FALSELY REPORTING INCIDENT 1ST|E                    1
+ATT AGGRAVATED VEHICULAR ASSAULT|D                  1
+MAKE APP SWORN FALSE STATE 1ST|E                    1
+ENDANGER PUB HLTH/SFTY/ENVRT 2|D                    1
+BRIBE REC BY A LABOR OFFICIAL|D                     1
+CRIM POSS WEAP 3RD SUB 9 10|D                       1
+ATT INTIMIDATE VICTIM/WITNESS 1ST|C                 1
+ATT AUTO STRIPPING 1ST|E                            1
+RELEASE OF SOLID WASTE 2ND OFF|E                    1
+CRIM DIVERSION PRESCRIP 2ND|D                       1
+ATT AGGRAVATED MANSLAUGHTER 1ST|C                   1
+ATT ARSON 3RD (HATE CRIME)|C                        1
+ATT VEHICULAR ASSAULT 1ST|E                         1
+BURGLARY 2ND SUB 1 (HATE CRIME)|B                   1
+SEX TRAFFICKING OF A CHILD|B                        1
+AGGRAVATED MANSLAUGHTER 2ND|C                       1
+POSS GAMB RCDS BOOKMAKING 1ST|E                     1
+ATT LABOR TRAFFICKING SUB 3A  3B|E                  1
+AGGRAVATED INSURANCE FRAUD 4TH|D                    1
+ATT INSURANCE FRAUD 1ST|C                           1
+FACILITATE SEX PERFRM BY CHILD|B                    1
+RAPE 1ST (PRIOR 9/1/78)|B                           1
+CRIM POSS BENEFIT CARD 2ND|D                        1
+REPEAT FAILURE:FILE PERSNL TAX|E                    1
+AGGRAVATED HARASSMENT 2ND (HATE CRIME)|E            1
+ATT GRAND LARCENY - AUTO 1ST|C                      1
+CRIM POSS BENEFIT CARD 3RD|E                        1
